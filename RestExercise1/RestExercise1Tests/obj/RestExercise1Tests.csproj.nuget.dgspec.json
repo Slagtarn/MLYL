@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victo\\Desktop\\ZealandMapper\\Projects\\TredjeSemester\\MortenTimer\\RestExercise1\\RestExercise1Tests\\RestExercise1Tests.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\MLYL\\RestExercise1\\RestExercise1Tests\\RestExercise1Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victo\\Desktop\\ZealandMapper\\Projects\\TredjeSemester\\MortenTimer\\RestExercise1\\RestExercise1Tests\\RestExercise1Tests.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\MLYL\\RestExercise1\\RestExercise1Tests\\RestExercise1Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\Desktop\\ZealandMapper\\Projects\\TredjeSemester\\MortenTimer\\RestExercise1\\RestExercise1Tests\\RestExercise1Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\MLYL\\RestExercise1\\RestExercise1Tests\\RestExercise1Tests.csproj",
         "projectName": "RestExercise1Tests",
-        "projectPath": "C:\\Users\\victo\\Desktop\\ZealandMapper\\Projects\\TredjeSemester\\MortenTimer\\RestExercise1\\RestExercise1Tests\\RestExercise1Tests.csproj",
-        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\Desktop\\ZealandMapper\\Projects\\TredjeSemester\\MortenTimer\\RestExercise1\\RestExercise1Tests\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MLYL\\RestExercise1\\RestExercise1Tests\\RestExercise1Tests.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MLYL\\RestExercise1\\RestExercise1Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\victo\\Desktop\\ZealandMapper\\Projects\\TredjeSemester\\MortenTimer\\RestExercise1\\RestExercise1\\RestExercise1.csproj": {
-                "projectPath": "C:\\Users\\victo\\Desktop\\ZealandMapper\\Projects\\TredjeSemester\\MortenTimer\\RestExercise1\\RestExercise1\\RestExercise1.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\MLYL\\RestExercise1\\RestExercise1\\RestExercise1.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MLYL\\RestExercise1\\RestExercise1\\RestExercise1.csproj"
               }
             }
           }
@@ -82,24 +82,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\victo\\Desktop\\ZealandMapper\\Projects\\TredjeSemester\\MortenTimer\\RestExercise1\\RestExercise1\\RestExercise1.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\MLYL\\RestExercise1\\RestExercise1\\RestExercise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\Desktop\\ZealandMapper\\Projects\\TredjeSemester\\MortenTimer\\RestExercise1\\RestExercise1\\RestExercise1.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\MLYL\\RestExercise1\\RestExercise1\\RestExercise1.csproj",
         "projectName": "RestExercise1",
-        "projectPath": "C:\\Users\\victo\\Desktop\\ZealandMapper\\Projects\\TredjeSemester\\MortenTimer\\RestExercise1\\RestExercise1\\RestExercise1.csproj",
-        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\Desktop\\ZealandMapper\\Projects\\TredjeSemester\\MortenTimer\\RestExercise1\\RestExercise1\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MLYL\\RestExercise1\\RestExercise1\\RestExercise1.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\MLYL\\RestExercise1\\RestExercise1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -155,7 +155,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
